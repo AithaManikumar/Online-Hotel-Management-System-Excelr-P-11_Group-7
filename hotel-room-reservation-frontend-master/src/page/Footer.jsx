@@ -148,13 +148,6 @@ const Footer = () => {
 
             <hr class="mb-4" />
           </div>
-
-          <div class="text-center">
-            © 2022 Copyright:
-            <a class="text-color-3" href="https://codewithmurad.com/">
-              codewithmurad.com
-            </a>
-          </div>
         </footer>
       </div>
     </div>
